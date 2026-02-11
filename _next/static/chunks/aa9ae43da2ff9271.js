@@ -1100,7 +1100,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                 className: "flex flex-col sm:flex-row gap-4 w-full max-w-md",
                 children: [
                   (0, t.jsx)("a", {
-                    href: "https://dexscreener.com/ethereum/0xComingSoon",
+                    href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     className:
